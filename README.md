@@ -5,7 +5,8 @@ A simple basic discord bot for doing some basic administrative tasks on a server
 ## Installation and setup instructions
 
 ### Prerequisites
-`Visual Studio Code` (https://code.visualstudio.com/download) and `Node.js` (https://nodejs.org/en/download/) installed globally.
+* Visual Studio Code (https://code.visualstudio.com/download)
+* Node.js (https://nodejs.org/en/download/)
 
 ### Installation
 1. Clone this repo;
