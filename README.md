@@ -1,6 +1,6 @@
 # Simple Basic Discord JS Bot
+This is supposed to be seen as a template and starter project.<br>
 A simple basic discord bot for doing some basic administrative tasks on a server.<br>
-*(This is supposed to be seen as a template and starter project.)*
 
 ## Installation and setup instructions
 
